@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="SkinnedMesh" guid="562118f4-a323-7e7c-0a64-1fd95f1b30f0" source="Unka Fly InPlace.FBX">
+ <Files>
+  <File path="tmp_meshImporter_HnsDoE.skin"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">4</Detail>
+  <Detail name="vertexCount">6</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+  <Detail name="bonesCount">11</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./default.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

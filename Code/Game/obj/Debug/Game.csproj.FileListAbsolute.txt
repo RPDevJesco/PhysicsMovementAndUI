@@ -1,0 +1,6 @@
+C:\Users\jglov\OneDrive\Documents\Development\CryEngine\BaseBlankProject\bin\Game.dll
+C:\Users\jglov\OneDrive\Documents\Development\CryEngine\BaseBlankProject\bin\Game.pdb
+C:\Users\jglov\OneDrive\Documents\Development\CryEngine\BaseBlankProject\Code\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\jglov\OneDrive\Documents\Development\CryEngine\BaseBlankProject\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\jglov\OneDrive\Documents\Development\CryEngine\BaseBlankProject\Code\Game\obj\Debug\Game.dll
+C:\Users\jglov\OneDrive\Documents\Development\CryEngine\BaseBlankProject\Code\Game\obj\Debug\Game.pdb

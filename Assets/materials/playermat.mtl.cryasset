@@ -1,0 +1,13 @@
+<AssetMetadata version="0" type="Material" guid="e6ea1aa8-acf7-69f6-2567-39c8c6d1cb4d" source="" timestamp="1594396910">
+ <Files>
+  <File path="playermat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">2</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">textures/marble_gen_068_diff.dds</Path>
+  <Path usageCount="1">textures/marble_gen_068_ddn.dds</Path>
+ </Dependencies>
+</AssetMetadata>
